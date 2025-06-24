@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "name": "Deva",
+    "nim": "A11.2022.14519",
+    "status": "aktif", 
+    "prodi": "teknik informasi",
+    "max_sks": 24
+  },
+  {
+    "id": 2,
+    "name": "Pradana",
+    "nim": "A11.2022.14520",
+    "status": "tidak aktif",
+    "prodi": "teknik informatika",
+    "max_sks": 22
+  },
+  {
+    "id": 3,
+    "name": "Andi",
+    "nim": "A11.2022.14521",
+    "status": "aktif",
+    "prodi": "teknik informatika",
+    "max_sks": 18
+  },
+  {
+    "id": 4,
+    "name": "Budi",
+    "nim": "A11.2022.14522",
+    "status": "aktif",
+    "prodi": "teknik informatika",
+    "max_sks": 20
+  },
+  {
+    "id": 5,
+    "name": "Citra",
+    "nim": "A11.2022.14523",
+    "status": "aktif",
+    "prodi": "teknik informatika",
+    "max_sks": 22
+  },
+  {
+    "id": 6,
+    "name": "Dina",
+    "nim": "A11.2022.14524",
+    "status": "aktif",
+    "prodi": "teknik informatika",
+    "max_sks": 18
+  },
+  {
+    "id": 7,
+    "name": "Eko",
+    "nim": "A11.2022.14525",
+    "status": "aktif",
+    "prodi": "teknik informatika",
+    "max_sks": 24
+  },
+  {
+    "id": 8,
+    "name": "Fajar",
+    "nim": "A11.2022.14526",
+    "status": "aktif",
+    "prodi": "teknik informatika",
+    "max_sks": 21
+  },
+  {
+    "id": 9,
+    "name": "Gita",
+    "nim": "A11.2022.14527",
+    "status": "aktif",
+    "prodi": "teknik informatika",
+    "max_sks": 20
+  },
+  {
+    "id": 10,
+    "name": "Hani",
+    "nim": "A11.2022.14528",
+    "status": "aktif",
+    "prodi": "teknik informatika",
+    "max_sks": 18
+  },
+  {
+    "id": 11,
+    "name": "Iwan",
+    "nim": "A11.2022.14529",
+    "status": "aktif",
+    "prodi": "teknik informatika",
+    "max_sks": 20
+  },
+  {
+    "id": 12,
+    "name": "Joko",
+    "nim": "A11.2022.14530",
+    "status": "aktif",
+    "prodi": "teknik informatika",
+    "max_sks": 18
+  },
+  {
+    "id": 13,
+    "name": "Kiki",
+    "nim": "A11.2022.14531",
+    "status": "aktif",
+    "prodi": "teknik informatika",
+    "max_sks": 24
+  },
+  {
+    "id": 14,
+    "name": "Lia",
+    "nim": "A11.2022.14532",
+    "status": "aktif",
+    "prodi": "teknik informatika",
+    "max_sks": 20
+  },
+  {
+    "id": 15,
+    "name": "Maya",
+    "nim": "A11.2022.14533",
+    "status": "aktif",
+    "prodi": "teknik informatika",
+    "max_sks": 18
+  },
+  {
+    "id": 16,
+    "name": "Nina",
+    "nim": "A11.2022.14534",
+    "status": "aktif",
+    "prodi": "teknik informatika",
+    "max_sks": 22
+  },
+  {
+    "id": 17,
+    "name": "Oki",
+    "nim": "A11.2022.14535",
+    "status": "aktif",
+    "prodi": "teknik informatika",
+    "max_sks": 20
+  },
+  {
+    "id": 18,
+    "name": "Putri",
+    "nim": "A11.2022.14536",
+    "status": "aktif",
+    "prodi": "teknik informatika",
+    "max_sks": 18
+  },
+  {
+    "id": 19,
+    "name": "Qila",
+    "nim": "A11.2022.14537",
+    "status": "aktif",
+    "prodi": "teknik informatika",
+    "max_sks": 18
+  },
+  {
+    "id": 20,
+    "name": "Rudi",
+    "nim": "A11.2022.14538",
+    "status": "aktif",
+    "prodi": "teknik informatika",
+    "max_sks": 21
+  },
+  {
+    "id": 21,
+    "name": "Salsa",
+    "nim": "A11.2022.14539",
+    "status": "aktif",
+    "prodi": "teknik informatika",
+    "max_sks": 18
+  },
+  {
+    "id": 22,
+    "name": "Tino",
+    "nim": "A11.2022.14540",
+    "status": "aktif",
+    "prodi": "teknik informatika",
+    "max_sks": 18
+  }
+]

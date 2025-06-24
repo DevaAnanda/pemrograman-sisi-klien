@@ -1,0 +1,1602 @@
+{
+  "dosen": [
+    {
+      "id": 1,
+      "id_dosen": "D001",
+      "name": "Dr. Siti Aminah, S.Kom., M.T.I.",
+      "departemen": "Teknik Informatika",
+      "email": "siti.aminah@universitas.ac.id",
+      "mata_kuliah_ampu": [
+        "Pemrograman Berorientasi Objek",
+        "Basis Data",
+        "Rekayasa Perangkat Lunak"
+      ],
+      "max_sks": 8
+    },
+    {
+      "id": 2,
+      "id_dosen": "D002",
+      "name": "Prof. Budi Santoso, Ph.D.",
+      "departemen": "Sistem Informasi",
+      "email": "budi.santoso@universitas.ac.id",
+      "mata_kuliah_ampu": [
+        "Sistem Informasi",
+        "Manajemen Proyek TI",
+        "Pengantar Teknologi Informasi"
+      ],
+      "max_sks": 12
+    },
+    {
+      "id": 3,
+      "id_dosen": "D003",
+      "name": "Ir. Cahaya Putri, M.Sc.",
+      "departemen": "Teknik Komputer",
+      "email": "cahaya.putri@universitas.ac.id",
+      "mata_kuliah_ampu": [
+        "Jaringan Komputer",
+        "Sistem Operasi",
+        "Keamanan Sistem dan Siber"
+      ],
+      "max_sks": 10
+    }
+  ],
+  "kelas": [
+    {
+      "id": "1",
+      "mata_kuliah_id": "1",
+      "dosen_id": "1",
+      "mahasiswa_ids": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    }
+  ],
+  "mahasiswa": [
+    {
+      "id": 1,
+      "name": "Deva",
+      "nim": "A11.2022.14519",
+      "status": "aktif",
+      "prodi": "teknik informasi",
+      "max_sks": 24
+    },
+    {
+      "id": 2,
+      "name": "Pradana",
+      "nim": "A11.2022.14520",
+      "status": "tidak aktif",
+      "prodi": "teknik informatika",
+      "max_sks": 22
+    },
+    {
+      "id": 3,
+      "name": "Andi",
+      "nim": "A11.2022.14521",
+      "status": "aktif",
+      "prodi": "teknik informatika",
+      "max_sks": 18
+    },
+    {
+      "id": 4,
+      "name": "Budi",
+      "nim": "A11.2022.14522",
+      "status": "aktif",
+      "prodi": "teknik informatika",
+      "max_sks": 20
+    },
+    {
+      "id": 5,
+      "name": "Citra",
+      "nim": "A11.2022.14523",
+      "status": "aktif",
+      "prodi": "teknik informatika",
+      "max_sks": 22
+    },
+    {
+      "id": 6,
+      "name": "Dina",
+      "nim": "A11.2022.14524",
+      "status": "aktif",
+      "prodi": "teknik informatika",
+      "max_sks": 18
+    },
+    {
+      "id": 7,
+      "name": "Eko",
+      "nim": "A11.2022.14525",
+      "status": "aktif",
+      "prodi": "teknik informatika",
+      "max_sks": 24
+    },
+    {
+      "id": 8,
+      "name": "Fajar",
+      "nim": "A11.2022.14526",
+      "status": "aktif",
+      "prodi": "teknik informatika",
+      "max_sks": 21
+    },
+    {
+      "id": 9,
+      "name": "Gita",
+      "nim": "A11.2022.14527",
+      "status": "aktif",
+      "prodi": "teknik informatika",
+      "max_sks": 20
+    },
+    {
+      "id": 10,
+      "name": "Hani",
+      "nim": "A11.2022.14528",
+      "status": "aktif",
+      "prodi": "teknik informatika",
+      "max_sks": 18
+    },
+    {
+      "id": 11,
+      "name": "Iwan",
+      "nim": "A11.2022.14529",
+      "status": "aktif",
+      "prodi": "teknik informatika",
+      "max_sks": 20
+    },
+    {
+      "id": 12,
+      "name": "Joko",
+      "nim": "A11.2022.14530",
+      "status": "aktif",
+      "prodi": "teknik informatika",
+      "max_sks": 18
+    },
+    {
+      "id": 13,
+      "name": "Kiki",
+      "nim": "A11.2022.14531",
+      "status": "aktif",
+      "prodi": "teknik informatika",
+      "max_sks": 24
+    },
+    {
+      "id": 14,
+      "name": "Lia",
+      "nim": "A11.2022.14532",
+      "status": "aktif",
+      "prodi": "teknik informatika",
+      "max_sks": 20
+    },
+    {
+      "id": 15,
+      "name": "Maya",
+      "nim": "A11.2022.14533",
+      "status": "aktif",
+      "prodi": "teknik informatika",
+      "max_sks": 18
+    },
+    {
+      "id": 16,
+      "name": "Nina",
+      "nim": "A11.2022.14534",
+      "status": "aktif",
+      "prodi": "teknik informatika",
+      "max_sks": 22
+    },
+    {
+      "id": 17,
+      "name": "Oki",
+      "nim": "A11.2022.14535",
+      "status": "aktif",
+      "prodi": "teknik informatika",
+      "max_sks": 20
+    },
+    {
+      "id": 18,
+      "name": "Putri",
+      "nim": "A11.2022.14536",
+      "status": "aktif",
+      "prodi": "teknik informatika",
+      "max_sks": 18
+    },
+    {
+      "id": 19,
+      "name": "Qila",
+      "nim": "A11.2022.14537",
+      "status": "aktif",
+      "prodi": "teknik informatika",
+      "max_sks": 18
+    },
+    {
+      "id": 20,
+      "name": "Rudi",
+      "nim": "A11.2022.14538",
+      "status": "aktif",
+      "prodi": "teknik informatika",
+      "max_sks": 21
+    },
+    {
+      "id": 21,
+      "name": "Salsa",
+      "nim": "A11.2022.14539",
+      "status": "aktif",
+      "prodi": "teknik informatika",
+      "max_sks": 18
+    },
+    {
+      "id": 22,
+      "name": "Tino",
+      "nim": "A11.2022.14540",
+      "status": "aktif",
+      "prodi": "teknik informatika",
+      "max_sks": 18
+    }
+  ],
+  "matakuliah": [
+    {
+      "id": 1,
+      "kode": "N201701",
+      "name": "Bahasa Indonesia",
+      "semester": 1,
+      "jenis": "T",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 2,
+      "kode": "AF201704",
+      "name": "Dasar Dasar Komputasi",
+      "semester": 1,
+      "jenis": "P",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 3,
+      "kode": "A11.54105",
+      "name": "DASAR PEMROGRAMAN",
+      "semester": 1,
+      "jenis": "TP",
+      "sks": 4,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 4,
+      "kode": "A11.64103",
+      "name": "DASAR PEMROGRAMAN",
+      "semester": 1,
+      "jenis": "TP",
+      "sks": 4,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 5,
+      "kode": "A11.64102",
+      "name": "FISIKA",
+      "semester": 1,
+      "jenis": "T",
+      "sks": 4,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 6,
+      "kode": "A11.64101",
+      "name": "KALKULUS",
+      "semester": 1,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 7,
+      "kode": "A11.54101",
+      "name": "KALKULUS 1",
+      "semester": 1,
+      "jenis": "T",
+      "sks": 4,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 8,
+      "kode": "A11.64104",
+      "name": "KETERAMPILAN INTERPERSONAL",
+      "semester": 1,
+      "jenis": "T",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 9,
+      "kode": "A11.54302",
+      "name": "MATEMATIKA DISKRIT",
+      "semester": 1,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 10,
+      "kode": "A11.54403",
+      "name": "ORGANISASI DAN ARSITEKTUR KOMPUTER",
+      "semester": 1,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 11,
+      "kode": "A11.54314",
+      "name": "PEMROGRAMAN BERBASIS WEB",
+      "semester": 1,
+      "jenis": "T",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 12,
+      "kode": "N2017054",
+      "name": "PENDIDIKAN AGAMA BUDHA",
+      "semester": 1,
+      "jenis": "T",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 13,
+      "kode": "N2017055",
+      "name": "PENDIDIKAN AGAMA HINDU",
+      "semester": 1,
+      "jenis": "T",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 14,
+      "kode": "N2017051",
+      "name": "PENDIDIKAN AGAMA ISLAM",
+      "semester": 1,
+      "jenis": "T",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 15,
+      "kode": "N2017052",
+      "name": "PENDIDIKAN AGAMA KATOLIK",
+      "semester": 1,
+      "jenis": "T",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 16,
+      "kode": "N2017056",
+      "name": "PENDIDIKAN AGAMA KONG HU CHU",
+      "semester": 1,
+      "jenis": "T",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 17,
+      "kode": "N2017053",
+      "name": "PENDIDIKAN AGAMA KRISTEN",
+      "semester": 1,
+      "jenis": "T",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 18,
+      "kode": "U201704",
+      "name": "PENGANTAR TEKidLOGI INFORMASI",
+      "semester": 1,
+      "jenis": "T",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 19,
+      "kode": "A11.54206",
+      "name": "ALGORITMA DAN PEMROGRAMAN",
+      "semester": 2,
+      "jenis": "TP",
+      "sks": 4,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 20,
+      "kode": "A11.64204",
+      "name": "ALGORITMA DAN STRUKTUR DATA",
+      "semester": 2,
+      "jenis": "TP",
+      "sks": 4,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 21,
+      "kode": "A11.54404",
+      "name": "BASIS DATA",
+      "semester": 2,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 22,
+      "kode": "U201701",
+      "name": "Dasar Kewirausahaan",
+      "semester": 2,
+      "jenis": "T",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 23,
+      "kode": "A11.54102",
+      "name": "FISIKA 1",
+      "semester": 2,
+      "jenis": "T",
+      "sks": 4,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 24,
+      "kode": "A11.64205",
+      "name": "INTERAKSI MANUSIA DAN KOMPUTER",
+      "semester": 2,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 25,
+      "kode": "A11.54406",
+      "name": "LOGIKA INFORMATIKA",
+      "semester": 2,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 26,
+      "kode": "A11.64203",
+      "name": "MATEMATIKA DISKRIT",
+      "semester": 2,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 27,
+      "kode": "A11.64201",
+      "name": "MATRIKS DAN RUANG VEKTOR",
+      "semester": 2,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 28,
+      "kode": "A11.64202",
+      "name": "ORGANISASI DAN ARSITEKTUR KOMPUTER",
+      "semester": 2,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 29,
+      "kode": "A11.54408",
+      "name": "PEMROGRAMAN WEB LANJUT",
+      "semester": 2,
+      "jenis": "T",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 30,
+      "kode": "N201707",
+      "name": "PENDIDIKAN PANCASILA",
+      "semester": 2,
+      "jenis": "T",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 31,
+      "kode": "A11.54207",
+      "name": "RANGKAIAN LOGIKA DIGITAL",
+      "semester": 2,
+      "jenis": "T",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 32,
+      "kode": "A11.54405",
+      "name": "REKAYASA PERANGKAT LUNAK",
+      "semester": 2,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 33,
+      "kode": "A11.64304",
+      "name": "BASIS DATA",
+      "semester": 3,
+      "jenis": "TP",
+      "sks": 4,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 34,
+      "kode": "A11.54501",
+      "name": "JARINGAN KOMPUTER",
+      "semester": 3,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 35,
+      "kode": "A11.64302",
+      "name": "LOGIKA INFORMATIKA",
+      "semester": 3,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 36,
+      "kode": "A11.54303",
+      "name": "MATRIKS DAN RUANG VEKTOR",
+      "semester": 3,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 37,
+      "kode": "A11.64305",
+      "name": "PEMROGRAMAN BERBASIS WEB",
+      "semester": 3,
+      "jenis": "P",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 38,
+      "kode": "A11.54608",
+      "name": "PEMROGRAMAN PERANGKAT BERGERAK",
+      "semester": 3,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 39,
+      "kode": "N201706",
+      "name": "PENDIDIKAN KEWARGANEGARAAN",
+      "semester": 3,
+      "jenis": "T",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 40,
+      "kode": "A11.54821",
+      "name": "PENGOLAHAN CITRA DIGITAL",
+      "semester": 3,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 41,
+      "kode": "A11.64301",
+      "name": "PROBABILITAS DAN STATISTIK",
+      "semester": 3,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 42,
+      "kode": "A11.64303",
+      "name": "REKAYASA PERANGKAT LUNAK",
+      "semester": 3,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 43,
+      "kode": "A11.54504",
+      "name": "REKAYASA PERANGKAT LUNAK LANJUT",
+      "semester": 3,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 44,
+      "kode": "A11.54505",
+      "name": "SISTEM BASIS DATA",
+      "semester": 3,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 45,
+      "kode": "A11.54506",
+      "name": "SISTEM INFORMASI",
+      "semester": 3,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 46,
+      "kode": "A11.64306",
+      "name": "SISTEM OPERASI",
+      "semester": 3,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 47,
+      "kode": "A11.54508",
+      "name": "STRATEGI ALGORITMA",
+      "semester": 3,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 48,
+      "kode": "A11.54306",
+      "name": "STRUKTUR DATA",
+      "semester": 3,
+      "jenis": "TP",
+      "sks": 4,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 49,
+      "kode": "A11.54806",
+      "name": "DATA MINING",
+      "semester": 4,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 50,
+      "kode": "A11.64402",
+      "name": "JARINGAN KOMPUTER",
+      "semester": 4,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 51,
+      "kode": "A11.54605",
+      "name": "KECERDASAN BUATAN",
+      "semester": 4,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 52,
+      "kode": "A11.64401",
+      "name": "OTOMATA DAN TEORI BAHASA",
+      "semester": 4,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 53,
+      "kode": "A11.54401",
+      "name": "OTOMATA DAN TEORI BAHASA",
+      "semester": 4,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 54,
+      "kode": "A11.64405",
+      "name": "PEMBELAJARAN MESIN",
+      "semester": 4,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 55,
+      "kode": "A11.64403",
+      "name": "PEMROGRAMAN BERORIENTASI OBJEK",
+      "semester": 4,
+      "jenis": "TP",
+      "sks": 4,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 56,
+      "kode": "A11.54402",
+      "name": "PEMROGRAMAN BERORIENTASI OBJEK",
+      "semester": 4,
+      "jenis": "TP",
+      "sks": 4,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 57,
+      "kode": "A11.64404",
+      "name": "PEMROGRAMAN WEB LANJUT",
+      "semester": 4,
+      "jenis": "P",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 58,
+      "kode": "A11.54301",
+      "name": "PROBABILITAS & STATISTIK",
+      "semester": 4,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 59,
+      "kode": "A11.54845",
+      "name": "PROYEK PERANGKAT LUNAK",
+      "semester": 4,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 60,
+      "kode": "A11.64407",
+      "name": "RANGKAIAN LOGIKA DIGITAL",
+      "semester": 4,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 61,
+      "kode": "A11.64406",
+      "name": "SISTEM BASIS DATA",
+      "semester": 4,
+      "jenis": "P",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 62,
+      "kode": "A11.54507",
+      "name": "SISTEM OPERASI",
+      "semester": 4,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 63,
+      "kode": "A11.54205",
+      "name": "ETIKA PROFESI",
+      "semester": 5,
+      "jenis": "T",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 64,
+      "kode": "A11.54202",
+      "name": "FISIKA 2",
+      "semester": 5,
+      "jenis": "T",
+      "sks": 4,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 65,
+      "kode": "A11.64505",
+      "name": "KECERDASAN BUATAN",
+      "semester": 5,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 66,
+      "kode": "A11.54503",
+      "name": "KOMPUTER GRAFIK",
+      "semester": 5,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 67,
+      "kode": "A11.64506",
+      "name": "KRIPTOGRAFI",
+      "semester": 5,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 68,
+      "kode": "A11.54703",
+      "name": "MANAJEMEN PROYEK",
+      "semester": 5,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 69,
+      "kode": "A11.64504",
+      "name": "MANAJEMEN PROYEK TEKidLOGI INFORMASI",
+      "semester": 5,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 70,
+      "kode": "A11.64502",
+      "name": "PENAMBANGAN DATA",
+      "semester": 5,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 71,
+      "kode": "A11.64503",
+      "name": "SISTEM INFORMASI",
+      "semester": 5,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 72,
+      "kode": "A11.64501",
+      "name": "SISTEM TERDISTRIBUSI",
+      "semester": 5,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 73,
+      "kode": "AF201703",
+      "name": "TECHidPRENEURSHIP",
+      "semester": 5,
+      "jenis": "T",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 74,
+      "kode": "A11.64604",
+      "name": "ANALISIS DAN PERANCANGAN BERORIENTASI OBJEK",
+      "semester": 6,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 75,
+      "kode": "A12.66621",
+      "name": "ANALITIKA MEDIA SOSIAL",
+      "semester": 6,
+      "jenis": "T",
+      "sks": 4,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 76,
+      "kode": "N201702",
+      "name": "Bahasa Inggris",
+      "semester": 6,
+      "jenis": "T",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 77,
+      "kode": "A14.27615",
+      "name": "FOTOGRAFI DESAIN",
+      "semester": 6,
+      "jenis": "TP",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 78,
+      "kode": "A11.54603",
+      "name": "INTERAKSI MANUSIA DAN KOMPUTER",
+      "semester": 6,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 79,
+      "kode": "A11.54201",
+      "name": "KALKULUS 2",
+      "semester": 6,
+      "jenis": "T",
+      "sks": 4,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 80,
+      "kode": "A11.64611",
+      "name": "KEAMANAN SISTEM DAN SIBER",
+      "semester": 6,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 81,
+      "kode": "A11.64609",
+      "name": "KOMPUTASI AWAN",
+      "semester": 6,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 82,
+      "kode": "A11.64601",
+      "name": "KOMPUTASI NUMERIK",
+      "semester": 6,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 83,
+      "kode": "A11.64606",
+      "name": "KOMPUTER GRAFIK",
+      "semester": 6,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 84,
+      "kode": "A14.27608",
+      "name": "KOMUNIKASI VISUAL PERIKLANAN",
+      "semester": 6,
+      "jenis": "TP",
+      "sks": 4,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 85,
+      "kode": "A11.54606",
+      "name": "KRIPTOGRAFI",
+      "semester": 6,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 86,
+      "kode": "AF201702",
+      "name": "Literasi Informasi",
+      "semester": 6,
+      "jenis": "T",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 87,
+      "kode": "A11.54607",
+      "name": "METODOLOGI PENELITIAN",
+      "semester": 6,
+      "jenis": "T",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 88,
+      "kode": "A11.54814",
+      "name": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+      "semester": 6,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 89,
+      "kode": "A11.64605",
+      "name": "PEMROGRAMAN PERANGKAT BERGERAK",
+      "semester": 6,
+      "jenis": "P",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 90,
+      "kode": "A11.64602",
+      "name": "PENGEMBANGAN STARTUP DIGITAL",
+      "semester": 6,
+      "jenis": "T",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 91,
+      "kode": "A11.64607",
+      "name": "PENGOLAHAN CITRA DIGITAL",
+      "semester": 6,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 92,
+      "kode": "A11.54836",
+      "name": "PENGOLAHAN CITRA DIGITAL LANJUT",
+      "semester": 6,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 93,
+      "kode": "A12.66603",
+      "name": "PERENCANAAN STRATEGIS SISTEM INFORMASI",
+      "semester": 6,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 94,
+      "kode": "A11.64603",
+      "name": "REKAYASA KEBUTUHAN PERANGKAT LUNAK",
+      "semester": 6,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 95,
+      "kode": "A11.54838",
+      "name": "RISET OPERASI",
+      "semester": 6,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 96,
+      "kode": "A11.64608",
+      "name": "SISTEM TEMU KEMBALI INFORMASI",
+      "semester": 6,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 97,
+      "kode": "A11.54609",
+      "name": "SISTEM TERDISTRIBUSI",
+      "semester": 6,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 98,
+      "kode": "A11.64610",
+      "name": "SISTEM TERTANAM",
+      "semester": 6,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 99,
+      "kode": "A11.54829",
+      "name": "SOFTWARE REQUIREMENT ENGINEERING",
+      "semester": 6,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 100,
+      "kode": "A11.54834",
+      "name": "WIRELESS AND MOBILE COMPUTING",
+      "semester": 6,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 101,
+      "kode": "A11.64713",
+      "name": "ANALISIS DATA",
+      "semester": 7,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 102,
+      "kode": "A11.64703",
+      "name": "BENGKEL KODING",
+      "semester": 7,
+      "jenis": "P",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 103,
+      "kode": "A11.54701",
+      "name": "BIMBINGAN KARIR",
+      "semester": 7,
+      "jenis": "T",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 104,
+      "kode": "A11.64802",
+      "name": "ETIKA PROFESI",
+      "semester": 7,
+      "jenis": "T",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 105,
+      "kode": "A11.64716",
+      "name": "FORENSIK DIGITAL",
+      "semester": 7,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 106,
+      "kode": "A11.54837",
+      "name": "GAME PROGRAMMING",
+      "semester": 7,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 107,
+      "kode": "A11.64718",
+      "name": "INTERNET OF THINGS",
+      "semester": 7,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 108,
+      "kode": "A11.64705",
+      "name": "JAMINAN KUALITAS PERANGKAT LUNAK",
+      "semester": 7,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 109,
+      "kode": "A11.54702",
+      "name": "KERJA PRAKTEK",
+      "semester": 7,
+      "jenis": "T",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 110,
+      "kode": "A11.64701",
+      "name": "KERJA PRAKTEK",
+      "semester": 7,
+      "jenis": "T",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 111,
+      "kode": "A11.64714",
+      "name": "KOMPUTASI KUANTUM",
+      "semester": 7,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 112,
+      "kode": "A11.64717",
+      "name": "LINGKUNGAN CERDAS DAN INTELIJEN",
+      "semester": 7,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 113,
+      "kode": "A11.64715",
+      "name": "MANAJEMEN JARINGAN",
+      "semester": 7,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 114,
+      "kode": "A11.54812",
+      "name": "METODE NUMERIK",
+      "semester": 7,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 115,
+      "kode": "A11.64702",
+      "name": "METODOLOGI PENELITIAN",
+      "semester": 7,
+      "jenis": "T",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 116,
+      "kode": "A11.54835",
+      "name": "NETWORK MANAGEMENT",
+      "semester": 7,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 117,
+      "kode": "A11.54815",
+      "name": "PEMODELAN DAN SIMULASI",
+      "semester": 7,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 118,
+      "kode": "A11.64710",
+      "name": "PEMROGRAMAN GAME",
+      "semester": 7,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 119,
+      "kode": "A11.64706",
+      "name": "PEMROGRAMAN SISI KLIEN",
+      "semester": 7,
+      "jenis": "P",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 120,
+      "kode": "A11.64707",
+      "name": "PEMROGRAMAN SISI SERVER",
+      "semester": 7,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 121,
+      "kode": "A11.64708",
+      "name": "PEMROSESAN BAHASA ALAMI BERBASIS TEKS",
+      "semester": 7,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 122,
+      "kode": "A11.64709",
+      "name": "PEMROSESAN BAHASA ALAMI BERBASIS UCAPAN",
+      "semester": 7,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 123,
+      "kode": "A11.64711",
+      "name": "PENGEMBANGAN GAME",
+      "semester": 7,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 124,
+      "kode": "A11.64712",
+      "name": "PENGLIHATAN KOMPUTER DAN ANALISIS CITRA",
+      "semester": 7,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 125,
+      "kode": "A11.54823",
+      "name": "SISTEM TEMU KEMBALI INFORMASI",
+      "semester": 7,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 126,
+      "kode": "A11.54828",
+      "name": "SOFTWARE QUALITY AND TESTING",
+      "semester": 7,
+      "jenis": "T",
+      "sks": 3,
+      "jenisnilai": "pilihan",
+      "status": "Aktif"
+    },
+    {
+      "id": 127,
+      "kode": "A11.54705",
+      "name": "TUGAS AKHIR 1",
+      "semester": 7,
+      "jenis": "T",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 128,
+      "kode": "A11.64704",
+      "name": "TUGAS AKHIR 1",
+      "semester": 7,
+      "jenis": "T",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 129,
+      "kode": "A11.64801",
+      "name": "BIMBINGAN KARIR",
+      "semester": 8,
+      "jenis": "T",
+      "sks": 2,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 130,
+      "kode": "A11.64803",
+      "name": "TUGAS AKHIR 2",
+      "semester": 8,
+      "jenis": "T",
+      "sks": 4,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    },
+    {
+      "id": 131,
+      "kode": "A11.54801",
+      "name": "TUGAS AKHIR 2",
+      "semester": 8,
+      "jenis": "T",
+      "sks": 4,
+      "jenisnilai": "wajib",
+      "status": "Aktif"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "Admin deva",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "role": "admin",
+      "permission": [
+        "dashboard.page",
+        "dashboard.table",
+        "mahasiswa.page",
+        "matakuliah.page",
+        "dosen.page",
+        "mahasiswa.read",
+        "mahasiswa.create",
+        "mahasiswa.update",
+        "mahasiswa.delete",
+        "dosen.read",
+        "dosen.create",
+        "dosen.update",
+        "dosen.delete",
+        "matakuliah.read",
+        "matakuliah.create",
+        "matakuliah.update",
+        "matakuliah.delete",
+        "rencana-studi.page",
+        "rencana-studi.read",
+        "rencana-studi.create",
+        "rencana-studi.update",
+        "rencana-studi.delete"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Pradana",
+      "email": "111202214520@gmail.com",
+      "password": "111202214520",
+      "role": "mahasiswa",
+      "permission": [
+        "krs.page",
+        "krs.read"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Deva",
+      "email": "111202214519@gmail.com",
+      "password": "111202214519",
+      "role": "mahasiswa",
+      "permission": [
+        "krs.page",
+        "krs.read"
+      ]
+    }
+  ]
+}
