@@ -1,0 +1,41 @@
+[
+  { 
+    "id": 1,
+    "id_dosen": "D001",
+    "name": "Dr. Siti Aminah, S.Kom., M.T.I.",
+    "departemen": "Teknik Informatika",
+    "email": "siti.aminah@universitas.ac.id",
+    "mata_kuliah_ampu": [
+      "Pemrograman Berorientasi Objek",
+      "Basis Data",
+      "Rekayasa Perangkat Lunak"
+    ],
+    "max_sks": 8
+  },
+  { 
+    "id": 2,
+    "id_dosen": "D002",
+    "name": "Prof. Budi Santoso, Ph.D.",
+    "departemen": "Sistem Informasi",
+    "email": "budi.santoso@universitas.ac.id",
+    "mata_kuliah_ampu": [
+      "Sistem Informasi",
+      "Manajemen Proyek TI",
+      "Pengantar Teknologi Informasi"
+    ],
+    "max_sks": 12
+  },
+  { 
+    "id": 3,
+    "id_dosen": "D003",
+    "name": "Ir. Cahaya Putri, M.Sc.",
+    "departemen": "Teknik Komputer",
+    "email": "cahaya.putri@universitas.ac.id",
+    "mata_kuliah_ampu": [
+      "Jaringan Komputer",
+      "Sistem Operasi",
+      "Keamanan Sistem dan Siber"
+    ],
+    "max_sks": 10
+  }
+]
