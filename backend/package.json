@@ -1,0 +1,5 @@
+{
+  "scripts": {
+  "start": "node merge-json.cjs && json-server --watch db/db.json --port 3001"
+}
+}
