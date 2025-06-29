@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const AxiosInstance = axios.create({
-  baseURL: "http://localhost:3001", // alamat json-server
+  baseURL: "https://start-production-de3d.up.railway.app", // alamat json-server
   headers: {
     "Content-Type": "application/json",
   },
